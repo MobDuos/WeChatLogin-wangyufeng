@@ -688,3 +688,39 @@
   width:305px;
   white-space:nowrap;
 }
+#u36_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:417px;
+  height:19px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+}
+#u36 {
+  position:absolute;
+  left:93px;
+  top:373px;
+  width:417px;
+  height:19px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+}
+#u37 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:417px;
+  white-space:nowrap;
+}
